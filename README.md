@@ -1,4 +1,4 @@
 # My-restaurant
 ------------------------
 
-![restaurant](Restaurant.png)
+![restaurant](w1.png)
